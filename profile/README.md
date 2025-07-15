@@ -1,6 +1,6 @@
 # 😊 IfyDev
 
-IfyDevelopers - A small group of developers creating obscure projects, the meaning of these projects is not always clear, but they just exist.
+IfyDevelopers - A small group of developers who create small projects :3
 
 
 Links to other links:
