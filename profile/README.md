@@ -1,15 +1,14 @@
-# 😊 IfyDev
+# Fouko
 
-IfyDevelopers - A small group of developers who create small projects :3
+We are not humans, we are horses.
 
 
 Links to other links:
 
-- Site: https://ifydev.xyz
-- About vall: https://vall.ifydev.xyz
-- About agedje: https://agedje.ifydev.xyz
+- Site: https://fouko.xyz
+- About vall: https://vall.fouko.xyz
 - Linktree: https://linktr.ee/va_ll
-- Github: https://github.com/IfyDevelopers
+- Github: https://github.com/FoukoDev
 - Twitch: https://www.twitch.tv/vallikoff
 
 
@@ -26,7 +25,7 @@ You can help with a coin:
 - Patreon: https://www.patreon.com/va_ll
 
 
-Projects owners: @vallikoff, @agedje
+Projects owners: @vallikoff
 
 
 ![boysmell-felix-argyle](https://github.com/user-attachments/assets/28106f12-bb6e-4f1e-8578-ff489ee8acd6)
